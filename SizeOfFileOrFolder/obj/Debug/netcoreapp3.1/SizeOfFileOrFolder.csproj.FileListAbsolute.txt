@@ -1,0 +1,13 @@
+C:\Users\Andrei\source\repos\SizeOfFileOrFolder\bin\Debug\netcoreapp3.1\SizeOfFileOrFolder.exe
+C:\Users\Andrei\source\repos\SizeOfFileOrFolder\bin\Debug\netcoreapp3.1\SizeOfFileOrFolder.deps.json
+C:\Users\Andrei\source\repos\SizeOfFileOrFolder\bin\Debug\netcoreapp3.1\SizeOfFileOrFolder.runtimeconfig.json
+C:\Users\Andrei\source\repos\SizeOfFileOrFolder\bin\Debug\netcoreapp3.1\SizeOfFileOrFolder.runtimeconfig.dev.json
+C:\Users\Andrei\source\repos\SizeOfFileOrFolder\bin\Debug\netcoreapp3.1\SizeOfFileOrFolder.dll
+C:\Users\Andrei\source\repos\SizeOfFileOrFolder\bin\Debug\netcoreapp3.1\SizeOfFileOrFolder.pdb
+C:\Users\Andrei\source\repos\SizeOfFileOrFolder\obj\Debug\netcoreapp3.1\SizeOfFileOrFolder.csprojAssemblyReference.cache
+C:\Users\Andrei\source\repos\SizeOfFileOrFolder\obj\Debug\netcoreapp3.1\SizeOfFileOrFolder.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\source\repos\SizeOfFileOrFolder\obj\Debug\netcoreapp3.1\SizeOfFileOrFolder.AssemblyInfoInputs.cache
+C:\Users\Andrei\source\repos\SizeOfFileOrFolder\obj\Debug\netcoreapp3.1\SizeOfFileOrFolder.AssemblyInfo.cs
+C:\Users\Andrei\source\repos\SizeOfFileOrFolder\obj\Debug\netcoreapp3.1\SizeOfFileOrFolder.dll
+C:\Users\Andrei\source\repos\SizeOfFileOrFolder\obj\Debug\netcoreapp3.1\SizeOfFileOrFolder.pdb
+C:\Users\Andrei\source\repos\SizeOfFileOrFolder\obj\Debug\netcoreapp3.1\SizeOfFileOrFolder.genruntimeconfig.cache
